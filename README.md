@@ -9,9 +9,16 @@
 - **學習方向**：持續探索中 🚀
 
 ## 📊 GitHub 統計
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tai-Ju&show_icons=true&theme=radical&cache_seconds=86400)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tai-Ju&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tai-Ju&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/Tai-Ju)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tai-Ju&theme=radical&hide_border=true)](https://github.com/Tai-Ju)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tai-Ju&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/Tai-Ju)
+
+</div>
 
 ## 📫 聯絡方式
 - Email: lk117868@gmail.com
