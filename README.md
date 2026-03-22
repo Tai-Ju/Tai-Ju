@@ -1,25 +1,115 @@
-# 👋 Hi, I'm 劉玳如
+# 👋 Hi, I'm 劉玳如 (Tai-Ju Liu)
 
-## 關於我
-曾任醫學中心管理師。專注於將複雜的原始數據轉化為易於理解的視覺化圖表，針對醫療資訊技術與智慧醫療發展，提供各種量化與質化分析依據，支援醫學中心政策或管理策略制定者的決策需求。(2025/10)
+> Healthcare Administrator → ML Engineer in Progress  
+> 馬偕紀念醫院藥劑部行政管理師 ｜ 國立臺北護理健康大學資訊管理所碩士生（2027 預計畢業）
+
+---
+
+## 🙋‍♀️ 關於我
+
+5 年醫療機構行政管理經驗，現正跨域轉型為**數位醫療 × ML 工程師**。
+
+專注於將醫療領域的實務知識與資料科學、AI 技術結合，目標是打造能真正落地於醫療場景的智慧應用。碩士研究方向聚焦於 **AI 驅動的出院後照護媒合系統**，探索 MCP / A2A Agent 架構在智慧醫療的應用潛力。
+
+---
 
 ## 💻 技術能力
-- **程式語言**：Python, JavaScript
-- **開發工具**：GitHub, VS Code
-- **學習方向**：持續探索中 🚀
+
+### 程式語言
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### 框架 & 工具
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+### AI / 資料科學
+
+- **Machine Learning**：scikit-learn（決策樹、邏輯回歸、Ridge/Lasso、K-means）
+- **資料處理**：pandas、numpy、scipy、XES 事件日誌生成
+- **流程分析**：BPMN 2.0、Process Mining、AS-IS/TO-BE 分析
+- **AI Agent**：MCP（Model Context Protocol）、A2A 架構、n8n 自動化
+- **視覺化**：matplotlib、Plotly.js、Power BI
+
+### 雲端 & 部署
+
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat&logo=github&logoColor=white)
+![WSL2](https://img.shields.io/badge/WSL2_Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+
+---
+
+## 🚀 近期專案
+
+| 專案                                                         | 說明                                                    | 技術                            |
+| ------------------------------------------------------------ | ------------------------------------------------------- | ------------------------------- |
+| [系統模擬儀表板](https://tai-ju.github.io/system-simulation/) | 將大學課程 Excel 模擬改寫為互動式 Python + Plotly 網站  | Python、Plotly.js、GitHub Pages |
+| [電商小站](https://github.com/Tai-Ju/django-practice)        | Django 全端電商練習，含商品列表、後台管理、Railway 部署 | Django、SQLite、Whitenoise      |
+| [藥局排班系統](https://github.com/Tai-Ju)                    | 馬偕藥劑部排班邏輯系統化，版本追蹤                      | Django、PostgreSQL              |
+| [LineBot OCR 藥品查詢](https://github.com/Tai-Ju)            | 掃描藥品標籤自動查詢儲位                                | Python、LINE API、OCR           |
+| MediPass 健康護照 App                                        | iOS Hackathon 提案，個人健康資料整合平台                | iOS、AI                         |
+
+---
+
+## 🎯 發展方向
+
+```
+醫療行政 ──→ 資料分析 ──→ ML Engineering ──→ 數位醫療 AI 應用
+    ↑                                              ↑
+  5年實務                                    研究方向：
+  馬偕醫院                              AI 出院後照護媒合
+                                        MCP / A2A Agent 架構
+```
+
+**短期目標（2025–2026）**
+
+- 💡 iPAS AI 應用規劃師認證（2026/05 考試）
+- 🏆 iOS AI Summer Camp Hackathon
+- 📝 碩士論文：AI 驅動出院後照護媒合系統
+
+**長期目標**
+
+- 數位醫療產品開發 / ML 工程師
+- 醫療 AI 解決方案落地應用
+
+---
+
+## 🏥 醫療領域專長
+
+- 治療藥物監測（TDM）流程優化
+- ADC 藥品庫存分析（EOQ、ABC 分類、需求預測）
+- 醫學教育行政（住院醫師訓練、多專科教學病房管理）
+- 醫療資訊系統分析（BPMN、Process Mining）
+
+---
 
 ## 📊 GitHub 統計
 
-<div align="center">
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tai-Ju&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/Tai-Ju)
 
-![](https://github-readme-stats.vercel.app/api?username=Tai-Ju&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tai-Ju&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/Tai-Ju)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Tai-Ju&theme=radical&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tai-Ju&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-</div>
+---
 
 ## 📫 聯絡方式
-- Email: lk117868@gmail.com
-- LinkedIn: [玳如 劉](https://www.linkedin.com/in/玳如-劉-22a228235)
+
+- 📧 Email：[lk117868@gmail.com](mailto:lk117868@gmail.com)
+
+- 💼 LinkedIn：[玳如 劉](https://www.linkedin.com/in/%E7%8E%B3%E5%A6%82-%E5%8A%89-22a228235)
+
+- 🌐 Portfolio：[lulu.lufolio.dev](https://lulu.lufolio.dev)
+
+  
+
+---
+
+*「從醫療現場出發，用技術讓照護更智慧。」*
