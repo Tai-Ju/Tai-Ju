@@ -48,50 +48,6 @@
 
 ---
 
-## 🚀 近期專案
-
-| 專案                                                         | 說明                                                    | 技術                            |
-| ------------------------------------------------------------ | ------------------------------------------------------- | ------------------------------- |
-| [系統模擬儀表板](https://tai-ju.github.io/system-simulation/) | 將大學課程 Excel 模擬改寫為互動式 Python + Plotly 網站  | Python、Plotly.js、GitHub Pages |
-| [電商小站](https://github.com/Tai-Ju/django-practice)        | Django 全端電商練習，含商品列表、後台管理、Railway 部署 | Django、SQLite、Whitenoise      |
-| [藥局排班系統](https://github.com/Tai-Ju)                    | 馬偕藥劑部排班邏輯系統化，版本追蹤                      | Django、PostgreSQL              |
-| [LineBot OCR 藥品查詢](https://github.com/Tai-Ju)            | 掃描藥品標籤自動查詢儲位                                | Python、LINE API、OCR           |
-| MediPass 健康護照 App                                        | iOS Hackathon 提案，個人健康資料整合平台                | iOS、AI                         |
-
----
-
-## 🎯 發展方向
-
-```
-醫療行政 ──→ 資料分析 ──→ ML Engineering ──→ 數位醫療 AI 應用
-    ↑                                              ↑
-  5年實務                                    研究方向：
-  馬偕醫院                              AI 出院後照護媒合
-                                        MCP / A2A Agent 架構
-```
-
-**短期目標（2025–2026）**
-
-- 💡 iPAS AI 應用規劃師認證（2026/05 考試）
-- 🏆 iOS AI Summer Camp Hackathon
-- 📝 碩士論文：AI 驅動出院後照護媒合系統
-
-**長期目標**
-
-- 數位醫療產品開發 / ML 工程師
-- 醫療 AI 解決方案落地應用
-
----
-
-## 🏥 醫療領域專長
-
-- 治療藥物監測（TDM）流程優化
-- ADC 藥品庫存分析（EOQ、ABC 分類、需求預測）
-- 醫學教育行政（住院醫師訓練、多專科教學病房管理）
-- 醫療資訊系統分析（BPMN、Process Mining）
-
----
-
 ## 📊 GitHub 統計
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tai-Ju&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/Tai-Ju)
