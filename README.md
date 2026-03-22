@@ -1,7 +1,7 @@
 # 👋 Hi, I'm 劉玳如 (Tai-Ju Liu)
 
 > Healthcare Administrator → ML Engineer in Progress  
-> 馬偕紀念醫院藥劑部行政管理師 ｜ 國立臺北護理健康大學資訊管理所碩士生（2027 預計畢業）
+> 馬偕紀念醫院管理師 ｜ 國立臺北護理健康大學資訊管理所碩士生（2027 預計畢業）
 
 ---
 
