@@ -85,13 +85,6 @@
 
 ---
 
-## 📊 GitHub 統計
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tai-Ju&theme=radical&no-frame=true&row=1&column=6)](https://github.com/Tai-Ju)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Tai-Ju&theme=radical&hide_border=true)
-
----
 
 ## 📫 聯絡方式
 
