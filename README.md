@@ -6,7 +6,7 @@
 
 ## 🙋‍♀️ 關於我
 
-6 年醫療機構行政管理經驗，現正跨域轉型為**數位醫療 × ML 工程師**。  
+5 年醫療機構行政管理經驗，現正跨域轉型為**數位醫療 × ML 工程師**。  
 任醫學中心管理師，將複雜的原始數據轉化為易於理解的視覺化圖表，針對醫療資訊技術與智慧醫療發展，提供量化與質化分析依據，支持醫學中心政策或管理策略制定者的決策需求。
 
 ---
@@ -87,8 +87,11 @@
 
 ## 📊 GitHub 統計
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tai-Ju&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/Tai-Ju)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tai-Ju&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/Tai-Ju)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tai-Ju&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/Tai-Ju)
+&nbsp;
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tai-Ju&layout=compact&theme=radical&hide_border=true&langs_count=6)](https://github.com/Tai-Ju)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Tai-Ju&theme=radical&hide_border=true)
 
 ---
 
