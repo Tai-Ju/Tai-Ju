@@ -87,9 +87,8 @@
 
 ## 📊 GitHub 統計
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tai-Ju&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/Tai-Ju)
-&nbsp;
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tai-Ju&layout=compact&theme=radical&hide_border=true&langs_count=6)](https://github.com/Tai-Ju)
+<img src="https://github-readme-stats.vercel.app/api?username=Tai-Ju&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tai-Ju&layout=compact&theme=radical&hide_border=true&langs_count=6" height="165">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Tai-Ju&theme=radical&hide_border=true)
 
